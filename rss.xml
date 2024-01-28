@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Videoclub Ariza</title>
+    <link>C:\Users\javie\Desktop\ProyectoJARHTML\src\proyectojarhtml/Pagina</link>
+    <description>Descripción de tu sitio web</description>
+    <language>es</language>
+    <pubDate>27/01/2024</pubDate>
+    <lastBuildDate>27/01/2024</lastBuildDate>
+    <managingEditor>javier.ariza.rosales@alumnos.cei.es</managingEditor>
+    <webMaster>javier.ariza.rosales@alumnos.cei.es</webMaster>
+
+    
+    <item>
+      <title>El aclamdo Pizza Tower recibirá un nuevo personaje gratis</title>
+      <link>https://vandal.elespanol.com/noticia/1350768686/el-aclamado-pizza-tower-recibira-un-nuevo-personaje-gratis-que-traera-cambios-en-la-jugabilidad/</link>
+      <description>Detalles del nuevo personaje de pizza tower</description>
+      <pubDate>27/01/2024</pubDate>
+      <guid>Pizza Tower</guid>
+    </item>
+	
+	<item>
+      <title>Tier list de league of legends, los mejores personajes por roles</title>
+      <link>https://vandal.elespanol.com/guias/guia-league-of-legends-trucos-consejos-y-secretos/tier-list</link>
+      <description>Tier list de league of legends</description>
+      <pubDate>27/01/2024</pubDate>
+      <guid>League of legends</guid>
+    </item>
+	
+	<item>
+      <title>Gran turismo recibe 3 nuevos coches, dos de ellos conceptuales</title>
+      <link>https://vandal.elespanol.com/noticia/1350768620/gran-turismo-7-recibe-gratis-tres-nuevos-coches-dos-de-ellos-conceptuales/</link>
+      <description>Información de los 3 nuevos coches de GT7</description>
+      <pubDate>25/01/2024</pubDate>
+      <guid>GT7</guid>
+    </item>
+	
+	<item>
+      <title>Brotato. uno de los juegos inspirados en vampire survivors más exitosos llega a PlayStation y XBOX</title>
+      <link>https://vandal.elespanol.com/noticia/1350768557/brotato-uno-de-los-juegos-inspirados-en-vampire-survivors-mas-exitosos-llega-a-playstation-y-xbox/</link>
+      <description>Anuncio y fecha sobre la llegada de Brotato a consolas</description>
+      <pubDate>22/01/2024</pubDate>
+      <guid></guid>
+    </item>
+</channel>
+</rss>
